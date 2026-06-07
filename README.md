@@ -13,6 +13,7 @@ mikrotik-mpls-l3vpn-lab/
 │   ├── P1.rsc
 │   ├── P2.rsc
 │   ├── P3.rsc
+P4.rsc
 │   ├── CE1.rsc
 │   ├── CE2.rsc
 │   ├── CE3.rsc
